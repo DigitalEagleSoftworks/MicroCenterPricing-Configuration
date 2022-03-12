@@ -1,0 +1,76 @@
+Stores:
+  - StoreNum: 101
+    StoreLocation: "Tustin"
+    StoreTax: 0.0775
+  - StoreNum: 181
+    StoreLocation: "Denver"
+    StoreTax: 0.0881
+  - StoreNum: 065
+    StoreLocation: "Duluth"
+    StoreTax: 0.06
+  - StoreNum: 041
+    StoreLocation: "Marietta"
+    StoreTax: 0.06
+  - StoreNum: 151
+    StoreLocation: "Chicago"
+    StoreTax: 0.1025
+  - StoreNum: 025
+    StoreLocation: "Westmont"
+    StoreTax: 0.075
+  - StoreNum: 191
+    StoreLocation: "Overland Park"
+    StoreTax: 0.0911
+  - StoreNum: 121
+    StoreLocation: "Cambridge"
+    StoreTax: 0.0625
+  - StoreNum: 125
+    StoreLocation: "Parkville"
+    StoreTax: 0.06
+  - StoreNum: 085
+    StoreLocation: "Rockville"
+    StoreTax: 0.06
+  - StoreNum: 055
+    StoreLocation: "Madison Heights"
+    StoreTax: 0.06
+  - StoreNum: 045
+    StoreLocation: "St. Louis Park"
+    StoreTax: 0.07525
+  - StoreNum: 095
+    StoreLocation: "Brentwood"
+    StoreTax: 0.10738
+  - StoreNum: 075
+    StoreLocation: "North Jersey/Paterson"
+    StoreTax: 0.066
+  - StoreNum: 115
+    StoreLocation: "Brooklyn"
+    StoreTax: 0.08875
+  - StoreNum: 145
+    StoreLocation: "Flushing"
+    StoreTax: 0.0888
+  - StoreNum: 171
+    StoreLocation: "Westbury"
+    StoreTax: 0.08625
+  - StoreNum: 105
+    StoreLocation: "Yonkers"
+    StoreTax: 0.08875
+  - StoreNum: 141
+    StoreLocation: "Columbus"
+    StoreTax: 0.075
+  - StoreNum: 051
+    StoreLocation: "Mayfield Heights"
+    StoreTax: 0.08
+  - StoreNum: 071
+    StoreLocation: "Sharonville"
+    StoreTax: 0.078
+  - StoreNum: 061
+    StoreLocation: "St. Davids"
+    StoreTax: 0.06
+  - StoreNum: 131
+    StoreLocation: "Dallas"
+    StoreTax: 0.0825
+  - StoreNum: 155
+    StoreLocation: "Houston"
+    StoreTax: 0.0825
+  - StoreNum: 081
+    StoreLocation: "Fairfax"
+    StoreTax: 0.06
