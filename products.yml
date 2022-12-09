@@ -1,5 +1,5 @@
-categories:
-  - category-id: 4294808776
-    category-desc: Nvidia 3000 Series
-    searchgroup:
+Categories:
+  - Category-Id: 4294808776
+    Category-Desc: Nvidia 3000 Series
+    SearchGroup:
       - GPU Chipset
