@@ -1,9 +1,9 @@
 Categories:
-  - Category-Id: 4294808776
-    Category-Desc: Nvidia 3000 Series
+  - Id: 4294808776
+    Desc: Nvidia 3000 Series
     SearchGroup:
       - GPU Chipset
-  - Category-Id: 4294805677
-    Category-Desc: Nvidia 4000 Series
+  - Id: 4294805677
+    Desc: Nvidia 4000 Series
     SearchGroup:
       - GPU Chipset
