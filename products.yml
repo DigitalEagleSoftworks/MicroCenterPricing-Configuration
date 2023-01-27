@@ -1,12 +1,4 @@
 Categories:
-  - Id: 4294808776
-    Desc: Nvidia 3000 Series
-    SearchGroup:
-      - GPU Chipset
-  - Id: 4294805677
-    Desc: Nvidia 4000 Series
-    SearchGroup:
-      - GPU Chipset
   - Id: 4294910344+4294818256
     Desc: Raspberry Pi Boards
     SearchGroup:
