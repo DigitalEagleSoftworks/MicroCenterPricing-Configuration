@@ -7,3 +7,7 @@ Categories:
     Desc: Nvidia 4000 Series
     SearchGroup:
       - GPU Chipset
+  - Id: 4294910344+4294818256
+    Desc: Raspberry Pi Boards
+    SearchGroup:
+      - Raspberry Pi
